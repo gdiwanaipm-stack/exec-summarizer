@@ -14,7 +14,7 @@ Reads any document (PDF, Word, PowerPoint, spreadsheet, plain text) and produces
 ## Install
 
 ```bash
-/install-plugin github.com/<your-username>/exec-summarizer
+/install-plugin github.com/gdiwanaipm-stack/exec-summarizer
 ```
 
 ## Usage
