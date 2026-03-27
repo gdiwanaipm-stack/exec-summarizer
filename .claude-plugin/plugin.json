@@ -1,0 +1,6 @@
+{
+  "name": "exec-summarizer",
+  "description": "Summarize documents into executive briefings. Triggers on file uploads, 'summarize this', 'TL;DR', and similar phrases.",
+  "version": "1.0.0",
+  "keywords": ["summarize", "executive", "pdf", "documents", "briefing"]
+}
