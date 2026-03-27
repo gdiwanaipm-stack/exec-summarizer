@@ -1,4 +1,4 @@
-# exec-summarizer
+# Exec-summarizer
 
 A Claude Code plugin that summarizes documents into concise executive briefings.
 
@@ -9,7 +9,7 @@ Reads any document (PDF, Word, PowerPoint, spreadsheet, plain text) and produces
 ## Triggers automatically on
 
 - Sharing a file path or uploading a document
-- Phrases like: "summarize this", "give me a summary", "TL;DR", "brief me on this", "what are the key points"
+-  Starter Phrases like: "summarize this", "give me a summary", "TL;DR", "brief me on this", "what are the key points"
 
 ## Install
 
